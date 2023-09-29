@@ -94,3 +94,27 @@ span{
 .nav-cart{
     font-weight: 600;
 }
+
+/* nav bottom */
+
+.nav-bottom{
+    display: flex;
+    height: 40px;
+    background-color: #222f3d;
+    color: #fff;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.option a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 10px;
+}
+.option{
+    width: 70%;
+    font-size: 0.85rem;
+}
+.option-deals{
+    font-size: 0.9rem;
+    font-weight: 700px;
+}
